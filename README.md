@@ -12,6 +12,6 @@
 </div>
 
 ## Live Demo
-<a href="https://warehouse-test.vercel.app/">
+<a href="https://gokomodo-takehometest.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20on%20the-Vercel-black.svg?style=popout&logo="/>
 </a>
