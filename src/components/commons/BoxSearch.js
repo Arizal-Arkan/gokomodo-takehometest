@@ -110,7 +110,7 @@ const BoxSearch = () => {
 
   const clickSearch = () => {
     context.setLoading(true);
-    console.log('execute');
+
     if (isInput.length > 0) {
       GetSearch(isInput)
       .then((item) => {

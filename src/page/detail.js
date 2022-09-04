@@ -46,6 +46,7 @@ const CoverContainer = Styled.div `
 const Cover = Styled.div `
     display: flex; 
     flex-wrap: wrap;
+    column-gap: 25px;
 
     @media (max-width: 768px) {
        display: block;
